@@ -23,5 +23,8 @@ The second section of the webinar will demonstrate how to integrate data deliver
 * Python 2 or 3 Libraries: requests, json, datetime, pandas, numpy, matplotlib     
 * Sign up for a NASA Earthdata account: https://urs.earthdata.nasa.gov/users/new     
 
+[Open the R Jupyter Notebook](https://github.com/ornldaac/webinar-modis-viirs-august2018/blob/master/NotebookR.ipynb)     
+[Open the Python Jupyter Notebook](https://github.com/ornldaac/webinar-modis-viirs-august2018/blob/master/NotebookPy.ipynb)     
+
 ### Related Tutorials/Other e-learning content
 More tutorials related to ORNL DAAC data and web services can be found at the ORNL DAAC's Resources page, https://daac.ornl.gov/resources/.
